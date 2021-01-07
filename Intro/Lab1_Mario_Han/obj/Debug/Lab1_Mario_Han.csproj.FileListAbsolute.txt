@@ -1,0 +1,10 @@
+C:\Users\Mario Han\Desktop\EC447\Lab1_Mario_Han\Lab1_Mario_Han\bin\Debug\Lab1_Mario_Han.exe.config
+C:\Users\Mario Han\Desktop\EC447\Lab1_Mario_Han\Lab1_Mario_Han\bin\Debug\Lab1_Mario_Han.exe
+C:\Users\Mario Han\Desktop\EC447\Lab1_Mario_Han\Lab1_Mario_Han\bin\Debug\Lab1_Mario_Han.pdb
+C:\Users\Mario Han\Desktop\EC447\Lab1_Mario_Han\Lab1_Mario_Han\obj\Debug\Lab1_Mario_Han.csprojAssemblyReference.cache
+C:\Users\Mario Han\Desktop\EC447\Lab1_Mario_Han\Lab1_Mario_Han\obj\Debug\Lab1_Mario_Han.Form1.resources
+C:\Users\Mario Han\Desktop\EC447\Lab1_Mario_Han\Lab1_Mario_Han\obj\Debug\Lab1_Mario_Han.Properties.Resources.resources
+C:\Users\Mario Han\Desktop\EC447\Lab1_Mario_Han\Lab1_Mario_Han\obj\Debug\Lab1_Mario_Han.csproj.GenerateResource.cache
+C:\Users\Mario Han\Desktop\EC447\Lab1_Mario_Han\Lab1_Mario_Han\obj\Debug\Lab1_Mario_Han.csproj.CoreCompileInputs.cache
+C:\Users\Mario Han\Desktop\EC447\Lab1_Mario_Han\Lab1_Mario_Han\obj\Debug\Lab1_Mario_Han.exe
+C:\Users\Mario Han\Desktop\EC447\Lab1_Mario_Han\Lab1_Mario_Han\obj\Debug\Lab1_Mario_Han.pdb
